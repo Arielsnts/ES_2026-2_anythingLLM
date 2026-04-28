@@ -29,7 +29,7 @@ Orientador: Glauco de Figueiredo Carneiro
 
 ## Áreas Analisadas
 
-- Ciclo de Vida e Metodologias Ágeis  
+- [Ciclo de Vida e Metodologias Ágeis](/docs/ciclo_de_vida.md)
 - Engenharia de Requisitos  
 - Arquitetura e Modelagem  
 - Verificação e Validação  
