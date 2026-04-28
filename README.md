@@ -10,7 +10,7 @@ O objetivo é analisar o nível de maturidade do projeto com base nos modelos MP
 ## Informações Gerais
 
 - Projeto analisado: https://github.com/Mintplex-Labs/anything-llm    
-- Vídeo da apresentação: (inserir link obrigatório aqui)  
+- Vídeo da apresentação: link
 
 ---
 
@@ -52,7 +52,7 @@ A análise foi realizada com base em:
 
 Este repositório foi organizado para permitir a replicação da análise.
 
-- /docs → Documento completo da auditoria  
+- nome do doc → Documento completo da auditoria  
 - /diagramas → Diagramas de arquitetura e fluxos  
 - /evidencias → Registros e exemplos coletados do GitHub  
 
