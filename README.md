@@ -42,7 +42,7 @@ A análise foi realizada com base em:
 
 - [Ciclo de Vida e Metodologias Ágeis](/docs/ciclo_de_vida.md)
 - [Engenharia de Requisitos](/docs/engenharia_de_requisitos.md)
-- [Arquitetura e Modelagem](/docs/arquitetura_de_modelagem.md)
+- [Arquitetura e Modelagem](/docs/arquitetura_e_modelagem.md)
 - [Verificação e Validação](/docs/verificacao_e_validacao.md)
 - [Controle de Qualidade](/docs/controle_de_qualidade.md) 
 
