@@ -52,7 +52,7 @@ A análise foi realizada com base em:
 
 Consolidação dos resultados obtidos nas cinco áreas analisadas, com classificação do projeto segundo os modelos MPS.BR e CMMI.
 
-[Ver análise completa](docs/nivel_de_maturidade.md)
+[Ver Nível de Maturidade](docs/nivel_de_maturidade.md)
 
 ---
 
@@ -70,7 +70,7 @@ Este repositório foi organizado para permitir a replicação da análise.
 
 - /docs → Resumos e Documento completo da auditoria  
 - /diagramas → Diagramas de arquitetura e fluxos  
-- /evidencias → Registros e exemplos coletados do GitHub  
+- /evidencias → Registros e exemplos coletados do GitHub 
 
 ---
 
