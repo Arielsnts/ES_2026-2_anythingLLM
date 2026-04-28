@@ -27,16 +27,6 @@ Orientador: Glauco de Figueiredo Carneiro
 
 ---
 
-## Áreas Analisadas
-
-- [Ciclo de Vida e Metodologias Ágeis](/docs/ciclo_de_vida.md)
-- Engenharia de Requisitos  
-- Arquitetura e Modelagem  
-- Verificação e Validação  
-- Controle de Qualidade  
-
----
-
 ## Metodologia
 
 A análise foi realizada com base em:
@@ -48,11 +38,21 @@ A análise foi realizada com base em:
 
 ---
 
+## Áreas Analisadas
+
+- [Ciclo de Vida e Metodologias Ágeis](/docs/ciclo_de_vida.md)
+- [Engenharia de Requisitos](/docs/engenharia_de_requisitos.md)
+- [Arquitetura e Modelagem](/docs/arquitetura_de_modelagem.md)
+- [Verificação e Validação](/docs/verificacao_e_validacao.md)
+- [Controle de Qualidade](/docs/controle_de_qualidade.md) 
+
+---
+
 ## Estrutura do Repositório
 
 Este repositório foi organizado para permitir a replicação da análise.
 
-- nome do doc → Documento completo da auditoria  
+- /docs → Resumos e Documento completo da auditoria  
 - /diagramas → Diagramas de arquitetura e fluxos  
 - /evidencias → Registros e exemplos coletados do GitHub  
 
