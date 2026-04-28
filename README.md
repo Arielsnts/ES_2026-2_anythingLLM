@@ -40,11 +40,27 @@ A análise foi realizada com base em:
 
 ## Áreas Analisadas
 
-- [Ciclo de Vida e Metodologias Ágeis](/docs/ciclo_de_vida.md)
-- [Engenharia de Requisitos](/docs/engenharia_de_requisitos.md)
-- [Arquitetura e Modelagem](/docs/arquitetura_e_modelagem.md)
-- [Verificação e Validação](/docs/verificacao_e_validacao.md)
-- [Controle de Qualidade](/docs/controle_de_qualidade.md) 
+- [Ciclo de Vida e Metodologias Ágeis](docs/ciclo_de_vida.md)
+- [Engenharia de Requisitos](docs/engenharia_de_requisitos.md)
+- [Arquitetura e Modelagem](docs/arquitetura_e_modelagem.md)
+- [Verificação e Validação](docs/verificacao_e_validacao.md)
+- [Controle de Qualidade](docs/controle_de_qualidade.md) 
+
+---
+
+## Nível de Maturidade
+
+Consolidação dos resultados obtidos nas cinco áreas analisadas, com classificação do projeto segundo os modelos MPS.BR e CMMI.
+
+[Ver análise completa](docs/nivel_de_maturidade.md)
+
+---
+
+## Plano de Melhoria
+
+Conjunto de recomendações práticas para evolução do projeto, organizadas por área, com base nas lacunas identificadas na auditoria.
+
+[Ver Plano de Melhoria](docs/plano_de_melhoria.md)
 
 ---
 
@@ -69,8 +85,9 @@ Este repositório foi organizado para permitir a replicação da análise.
 ---
 
 ## Referências
+
 - Repositório oficial do AnythingLLM  
-- Engenharia de software: uma abordagem profissional 7. ed, de PRESSMAN, Roger S. 
-- Documentação estruturada do DeepWiki
+- PRESSMAN, Roger S. Engenharia de software: uma abordagem profissional. 7. ed.  
+- Documentação estruturada do DeepWiki  
 - Guia Geral MPS.BR (2024)  
 - Materiais de Apoio do CMMI Institute
