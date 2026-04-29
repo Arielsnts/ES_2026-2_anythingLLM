@@ -9,8 +9,8 @@ O objetivo é analisar o nível de maturidade do projeto com base nos modelos MP
 
 ## Informações Gerais
 
-- Projeto analisado: https://github.com/Mintplex-Labs/anything-llm    
-- Vídeo da apresentação: link
+- Projeto analisado: [AnythingLLM](https://github.com/Mintplex-Labs/anything-llm)
+- Vídeo da apresentação: [clique aqui](https://drive.google.com/file/d/1YF5nX7VMqyiVjaZ_gPAEBWAm8O5TBJTQ/view?usp=drivesdk)
 
 ---
 
