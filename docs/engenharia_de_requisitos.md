@@ -7,10 +7,10 @@ Sem documento formal de requisitos. Issues funcionam como substituto informal de
 
 ## MPS.BR
 - REQ 1: atende parcialmente — qualidade varia conforme o contribuidor
-- REQ 2: nao atende — sem backlog estruturado nem criterios de aceitacao
+- REQ 2: não atende — sem backlog estruturado nem criterios de aceitacao
 - REQ 3: atende parcialmente — regra existente, mas aplicacao inconsistente
 - REQ 4: atende parcialmente — rastreabilidade direta existe, rastreabilidade inversa nao e garantida
-- REQ 5: nao atende — sem revisao formal de consistencia entre o que foi solicitado e o que foi entregue
+- REQ 5: não atende — sem revisao formal de consistencia entre o que foi solicitado e o que foi entregue
 
 ---
 

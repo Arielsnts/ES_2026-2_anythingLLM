@@ -7,7 +7,7 @@ Governanca baseada em CONTRIBUTING.md com exigencia de issue preexistente, conve
 ## MPS.BR
 - GQA 1 a 5: atendidos satisfatoriamente para contexto open source
 - GQA 6: parcialmente — sem fluxo de escalonamento formal para nao-conformidades internas
-- GQA 7: nao atende — sem Plano de GQA nem relatorios periodicos de metricas de qualidade
+- GQA 7: não atende — sem Plano de GQA nem relatorios periodicos de metricas de qualidade
 
 ---
 

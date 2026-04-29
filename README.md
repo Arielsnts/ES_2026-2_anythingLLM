@@ -46,6 +46,8 @@ A análise foi realizada com base em:
 - [Verificação e Validação](docs/verificacao_e_validacao.md)
 - [Controle de Qualidade](docs/controle_de_qualidade.md) 
 
+- Para a auditoria completa: [clique aqui](/docs/A1_AnythingLLM_KarolSthefanny.pdf)
+
 ---
 
 ## Nível de Maturidade

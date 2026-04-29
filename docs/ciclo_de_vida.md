@@ -6,7 +6,7 @@ O projeto opera com ciclo de vida agil e incremental, sem Scrum formal. O fluxo 
 
 ## MPS.BR
 - Atende parcialmente GPR 1, 2, 5, 9, 14, 15, 17, 18, 19
-- Nao atende GPR 3, 4, 6, 7, 8, 11, 12, 13, 16, 20, 21, 22, 23
+- Não atende GPR 3, 4, 6, 7, 8, 11, 12, 13, 16, 20, 21, 22, 23
 - Ausencia de planejamento formal, estimativas, definicao de papeis e gestao quantitativa de riscos
 
 ---

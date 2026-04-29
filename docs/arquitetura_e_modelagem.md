@@ -19,7 +19,7 @@ Monorepo com tres componentes principais: Server (orquestrador central), Fronten
 
 ---
 
-## Sugestao de Melhoria**
+## Sugestao de Melhoria
 - Criar documentacao arquitetural com diagramas e ADRs (Architecture Decision Records)
 - Formalizar criterios de decisao tecnica com registro de alternativas avaliadas
 - Reduzir acoplamento do server por modularizacao adicional, separando responsabilidades em camadas mais independentes
