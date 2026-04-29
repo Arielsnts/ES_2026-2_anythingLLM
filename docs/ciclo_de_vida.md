@@ -13,3 +13,7 @@ O projeto opera com ciclo de vida agil e incremental, sem Scrum formal. O fluxo 
 - Adotar milestones para definir marcos e organizar entregas
 - Criar roadmap publico
 - Registrar e monitorar sistematicamente riscos tecnicos, especialmente dependencias de APIs externas
+
+---
+
+Verifique as [evidências](/evidencias/ciclo_de_vida/)

@@ -12,3 +12,7 @@ Pipeline de CI/CD robusto via GitHub Actions com lint obrigatorio, testes unitar
 - Integrar frameworks de avaliacao automatizada de IA (como Ragas ou TruLens) no CI para metricas de fidelidade e relevancia das respostas
 - Configurar quality gates de cobertura minima de testes (ex: 80%) via SonarQube
 - Bloquear bypass de revisao por pares via "Do not allow bypassing the above settings" no GitHub, incluindo administradores
+
+---
+
+Verifique as [evidências](/evidencias/verificacao_e_validacao/)

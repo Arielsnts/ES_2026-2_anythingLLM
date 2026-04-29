@@ -17,3 +17,7 @@ Sem documento formal de requisitos. Issues funcionam como substituto informal de
 - Implementar pipeline automatizado para monitorar breaking changes de APIs externas
 - Aplicar tecnicamente a regra de vinculacao de issues via GitHub Actions (bloqueio automatico)
 - Exigir issue de follow-up para entregas parciais antes do merge
+
+---
+
+Verifique as [evidências](/evidencias/engenharia_de_requisitos/)

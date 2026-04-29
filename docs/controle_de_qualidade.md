@@ -15,3 +15,7 @@ Governanca baseada em CONTRIBUTING.md com exigencia de issue preexistente, conve
 - Avaliar migracao incremental para TypeScript
 - Associar issues de divida tecnica a milestones com prazos definidos
 - Incluir relatorios simplificados de metricas de qualidade nos ciclos de release
+
+---
+
+Verifique as [evidências](/evidencias/controle_de_qualidade/)

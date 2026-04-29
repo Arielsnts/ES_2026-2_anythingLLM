@@ -16,3 +16,6 @@ Monorepo com tres componentes principais: Server (orquestrador central), Fronten
 - Formalizar criterios de decisao tecnica com registro de alternativas avaliadas
 - Reduzir acoplamento do server por modularizacao adicional, separando responsabilidades em camadas mais independentes
 
+---
+
+Verifique as [evidências](/evidencias/arquitetura_e_modelagem/) e [diagramas](/diagramas/)
