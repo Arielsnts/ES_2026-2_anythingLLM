@@ -7,11 +7,11 @@ Monorepo com tres componentes principais: Server (orquestrador central), Fronten
 - PCP 1+: nao atende — sem criterios explicitos de decisao arquitetural nem registro de alternativas
 - PCP 2: atende parcialmente — avaliacoes ocorrem de forma reativa
 - PCP 3: atende — implementacao consistente com a arquitetura definida
-- PCP 3+: atende parcialmente — evolucao continua mas sem documentacao estruturada
+- PCP 3+: atende parcialmente — evolucao continua mas sem documentacao estruturada <br>
 **CMMI**
 - Niveis 1 e 2 de TS atendidos (solucao construida e design consistente)
-- Nivel 3 limitado pela ausencia de documentacao formal, criterios de decisao e registros de alternativas
-**Sugestao de Melhoria**
+- Nivel 3 limitado pela ausencia de documentacao formal, criterios de decisao e registros de alternativas <br>
+**Sugestao de Melhoria** <br>
 - Criar documentacao arquitetural com diagramas e ADRs (Architecture Decision Records)
 - Formalizar criterios de decisao tecnica com registro de alternativas avaliadas
 - Reduzir acoplamento do server por modularizacao adicional, separando responsabilidades em camadas mais independentes
